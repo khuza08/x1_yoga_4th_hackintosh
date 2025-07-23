@@ -1,5 +1,6 @@
 # x1_yoga_4th_hackintosh
 # Sequoia
+forget to screenshot, but it works
 ```
 Working :
 Front single speaker, Keyboard, Touchpad, USB Ports, etc(didnt check it much).
