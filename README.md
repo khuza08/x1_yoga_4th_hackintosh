@@ -1,6 +1,17 @@
-# x1_yoga_4th_hackintosh
+# Ventura
+
+<img width="300" alt="Screenshot 2026-05-14 at 14 58 13" src="https://github.com/user-attachments/assets/a08a485d-06e1-4a30-abdd-79f2010db503" />
+
+
+```
+Working :
+Front single speaker, Keyboard, Touchpad, USB Ports, touch(voodoi2c).
+Not:
+Bottom dual speaker(this device has 3, only the top speaker work), fingerprint, 360 detect.
+```
+
 # Sequoia
-forget to screenshot, but it works
+forgot to screenshot, but it works
 ```
 Working :
 Front single speaker, Keyboard, Touchpad, USB Ports, etc(didnt check it much).
@@ -20,6 +31,5 @@ All speakers, camera, fingerprint, etc.
 ---
 
 ```
-Note: Just for fun, for those want to tinker around with it, i just give the working EFI, 
-i will make for monterey/ventura and will focused on that later(cuz working smooth on this laptop).
+Note: personal use.
 ```
