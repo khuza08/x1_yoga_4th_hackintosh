@@ -5,9 +5,21 @@
 
 ```
 Working :
-Front single speaker, Keyboard, Touchpad, USB Ports, touch(voodoi2c).
+all speaker, Keyboard, Touchpad, USB Ports, touch(voodoi2c).
 Not:
-Bottom dual speaker(this device has 3, only the top speaker work), fingerprint, 360 detect.
+fingerprint, 360 detect.
+```
+
+# Sonoma
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/c9a80689-1aae-4b4d-bcdd-5c755a0373b2" />
+
+
+```
+Working :
+all speaker, Keyboard, Touchpad, USB Ports, touch(voodoi2c).
+Not:
+fingerprint, 360 detect.
 ```
 
 # Sequoia
